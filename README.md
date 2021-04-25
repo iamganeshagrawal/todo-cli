@@ -29,3 +29,21 @@ todo mark 11        # ID -> 11
 # Mark a todo pending/uncompleted by ID
 todo mark 11 -u     # ID -> 11
 ```
+
+
+### Work Progrss
+- Setup Initial blank commands and sub commands
+  - [X] version
+  - [X] version --update
+  - [X] add
+  - [X] list
+  - [X] list pending
+  - [X] list completed
+  - [X] delete
+  - [X] mark
+
+- Packages
+  - [X] update : complated and linked github release tags for version check
+  - [ ] database : initial file created
+  - [X] version : completed
+
